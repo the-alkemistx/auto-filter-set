@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://envs.sh/aW.jpg)" alt="explicit-Filter-Bot Logo">
+  <img src="https://envs.sh/aW.jpg" alt="explicit-Filter-Bot Logo">
 </p>
 <h1 align="center">
   explicit FILTER BOT
